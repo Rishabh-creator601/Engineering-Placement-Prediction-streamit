@@ -23,7 +23,7 @@ it predict on the basis of :
 ## Model Deployment
 
 You can find the app here :
-[Placement Prediction App](https://placepred.streamlit.app)
+[Placement Prediction App](https://placpred.streamlit.app)
 
 
 
